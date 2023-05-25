@@ -17,6 +17,8 @@ gem 'devise-bootstrap-views'
 gem 'jquery-rails'
 gem 'dotenv-rails'
 gem 'sassc-rails'
+gem "font-awesome-sass", "~> 6.4.0"
+
 
 
 
