@@ -19,8 +19,9 @@ gem 'dotenv-rails'
 gem 'sassc-rails'
 gem "font-awesome-sass", "~> 6.4.0"
 gem 'stripe'
-
-
+gem 'carrierwave'
+gem 'mini_magick'
+gem 'fog-aws'
 
 
 # Use the Puma web server [https://github.com/puma/puma]
